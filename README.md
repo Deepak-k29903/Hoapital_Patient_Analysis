@@ -17,4 +17,4 @@ Power BI Project - Hospital Patient Analysis
 - Power BI Desktop
 
 **Tools:**
--Power BI
+- Power BI
